@@ -12,7 +12,7 @@
 |  2   | 10 - 12 | [2주차](https://github.com/yurim-hgr/modernDeepDiveJS/tree/main/2week) |
 |  3   | 13 - 18 | [3주차](https://github.com/yurim-hgr/modernDeepDiveJS/tree/main/3week) |
 |  4   | 19 - 21 | [4주차](https://github.com/yurim-hgr/modernDeepDiveJS/tree/main/4week) |
-|  5   | 22 - 26 |                                   -                                    |
+|  5   | 22 - 26 | [5주차](https://github.com/yurim-hgr/modernDeepDiveJS/tree/main/5week) |
 |  6   | 33 - 37 |                                   -                                    |
 |  7   | 38 - 41 |                                   -                                    |
 |  8   | 42 - 48 |                                   -                                    |
