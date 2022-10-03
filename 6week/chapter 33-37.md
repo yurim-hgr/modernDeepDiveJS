@@ -34,3 +34,9 @@ Symbol.keyFor(globalSymbol);
 
 - 타 언어의 `enum`처럼 활용가능함
 - 프로퍼티로 만들면 기본적으로 은닉되며, `Object.getOwnPropertySymbols`로 찾을 수 있음
+
+# 34장 이터러블
+
+## 이터러블
+
+이터러블 프로토콜을 준수한 객체를 이터러블이라 한다. 즉, 이터러블은Symbol.iterator를 프로퍼티 키로 사용한 메서드를 직접 구현하거나 프로토타입 체인을 통해 상속받은 객체를 말한다.
